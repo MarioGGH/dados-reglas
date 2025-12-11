@@ -9,5 +9,5 @@
   { "id": 8, "name": "Quintilla", "description": "Cinco dados iguales", "points": 5 },
   { "id": 9, "name": "Sextilla", "description": "Seis dados iguales", "points": 6 },
   { "id": 10, "name": "Escalera 1-6", "description": "1,2,3,4,5,6", "points": 7 },
-  { "id": 11, "name": "Triple Par", "description": "Tres pares distintos", "points": 3 },
+  { "id": 11, "name": "Triple Par", "description": "Tres pares distintos", "points": 3 }
 ]
