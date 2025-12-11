@@ -6,7 +6,7 @@
   { "id": 5, "name": "Full", "description": "Tercia + Par", "points": 4 },
   { "id": 6, "name": "Póker", "description": "Cuatro dados iguales", "points": 4 },
   { "id": 7, "name": "Par + Póker", "description": "Póker más un par", "points": 5 },
-  { "id": 8, "name": "Quintilla", "description": "Cinco dados iguales", "points": 8 },
-  { "id": 9, "name": "Sextilla", "description": "Seis dados iguales", "points": 12 },
+  { "id": 8, "name": "Quintilla", "description": "Cinco dados iguales", "points": 5 },
+  { "id": 9, "name": "Sextilla", "description": "Seis dados iguales", "points": 6 },
   { "id": 10, "name": "Escalera 1-6", "description": "1,2,3,4,5,6", "points": 7 }
 ]
